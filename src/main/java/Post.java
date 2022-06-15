@@ -1,5 +1,5 @@
 public class Post {
-    public FormDate birthday;
+    FormDate birthday = new FormDate();
     public String name;
     public String surname;
     public String patronymic;
